@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Divinefavour!
+### Radiography Student | Web Development Learner | Tech Enthusiast
 
-<!--
-**divinefavournwankwo103-dotcom/divinefavournwankwo103-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Github profile!
+I am currently learning **HTML, CSS, JAVASCRIPT**, and building projects to improve my skills.
+---
 
-Here are some ideas to get you started:
+## Skills i'm learning
+-HTML
+-CSS
+JAVASCRIPT
+-GIT & GITHUB
+Basic UI/UX Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## FUN FACTS
+-I love design and frontend development
+-I enjoy learning new tech skills
+-I'm always happy improving myself
+
+---
+## How to reach me
+-**Email**: divinefavournwankwo103@gmail.com
+
+---
+Thanks for visiting my profile!
+Feel free to connect or check out my repositories.
